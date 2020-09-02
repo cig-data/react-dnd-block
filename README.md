@@ -93,4 +93,4 @@ ReactDOM.render(<DNDBlockDemo />, mountNode);
 
 [API](http://react-dnd.github.io/react-dnd/examples/dustbin/single-target)
 
-[react-dnd-html5-backend]https://react-dnd.github.io/react-dnd/docs/backends/html5
+[react-dnd-html5-backend](https://react-dnd.github.io/react-dnd/docs/backends/html5)
